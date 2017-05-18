@@ -14,7 +14,7 @@
     "dir-compare": "^1.0.1",
     "enduro_admin": "1.0.61",
     "express": "^4.13.4",
-    "express-session": "^1.13.0",
+    "express-session": "^1.15.3",
     "extend": "^3.0.0",
     "fs-extra": "^2.0.0",
     "fstream": "^1.0.10",
